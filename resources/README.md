@@ -1,0 +1,1 @@
+here are two scripts (that you might need to change the path to editbin.exe in them..) that you can drag and drop your exe over, you will get a backup and a patched file. with some basic error handling and information..
